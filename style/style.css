@@ -225,6 +225,7 @@ img {
 .contact {
     text-align: center;
     margin-block: 20rem;
+    animation: slideInFromBottom 1s ease;
 }
 
 .contact h2 {
