@@ -81,10 +81,10 @@ img {
     animation: slideInFromBottom 1s ease;
 }
 
-.hero h1 {
+.hero h1, .profile h1 {
     text-align: center;
     font-weight: 500;
-    font-size: 60px;
+    font-size: 70px;
 }
 
 .hero ul {
@@ -273,7 +273,7 @@ img {
         width: min(800px, 90vw);
     }
 
-    .hero h1 {
+    .hero h1, .profile h1 {
         font-size: 30px;
     }
 
